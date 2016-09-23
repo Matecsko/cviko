@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.Mate Tibor Krajczar
-2.
+2.Danis Tamas
 3.
 4.
 
