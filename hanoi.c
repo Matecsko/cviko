@@ -14,6 +14,8 @@ void hanoi(int n, int a, int b)
 
 int main()
 {
+	
+	
   int n = 4;
 
   hanoi(n, 1, 2);
